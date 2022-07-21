@@ -1,0 +1,9 @@
+body{text-align: center;}
+header h1{color: palevioletred;}
+header a{font-size: 14pt; padding: 10px;}
+.content p{font-size: 13pt;}
+.content h3{color:burlywood;}
+.content ul{list-style-position: inside;}
+.content ol{list-style-position: inside;}
+.content img{width: 20%;}
+.content li:hover {color:crimson;}
